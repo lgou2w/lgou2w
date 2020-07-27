@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm **lgou2w**. A Minecraft server plugin developer, and currently in-depth learning Node.js and Vue.js full-stack development.
 
-* 📪 Email: `lgou2w@hotmail.com`
+* 📪 Email: [`lgou2w@hotmail.com`](mailto:lgou2w@hotmail.com)
 * 🔑 PGP Key ID: [`0xd963583acb1a0127`](https://keyserver.ubuntu.com/pks/lookup?op=vindex&fingerprint=on&search=0xd963583acb1a0127)
 * 🔍 Fingerprint: `81cc a1ac b714 4dbe 6aff c9cf d963 583a cb1a 0127`
 
