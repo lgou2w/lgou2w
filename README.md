@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About me 👋
+## 👋 About me
 
 I'm **lgou2w**. A Minecraft server plugin developer, and currently in-depth learning Node.js and Vue.js full-stack development.
 
@@ -22,7 +22,7 @@ I'm **lgou2w**. A Minecraft server plugin developer, and currently in-depth lear
 * 🔑 PGP Key ID: [`0xd963583acb1a0127`](https://keyserver.ubuntu.com/pks/lookup?op=vindex&fingerprint=on&search=0xd963583acb1a0127)
 * 🔍 Fingerprint: `81cc a1ac b714 4dbe 6aff c9cf d963 583a cb1a 0127`
 
-## Languages I use 💻
+## 💻 Languages I use
 
 <table>
   <tbody>
@@ -55,6 +55,6 @@ I'm **lgou2w**. A Minecraft server plugin developer, and currently in-depth lear
   </tbody>
 </table>
 
-## Stats 📄
+## 📄 Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=lgou2w&theme=dracula)
