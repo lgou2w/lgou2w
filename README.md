@@ -58,3 +58,5 @@ I'm **lgou2w**. A Minecraft server plugin developer, and currently in-depth lear
 ## 📄 Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=lgou2w&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgou2w&layout=compact&theme=dracula)
