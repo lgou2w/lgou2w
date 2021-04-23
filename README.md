@@ -57,6 +57,12 @@ I'm **lgou2w**. A Minecraft server plugin developer, and currently in-depth lear
 
 ## 📄 Stats
 
+![page-click](https://komarev.com/ghpvc/?username=lgou2w)
+
+![Metrics](https://github.com/lgou2w/lgou2w/blob/master/github-metrics.svg)
+
+<!--
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=lgou2w&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgou2w&layout=compact&theme=dracula)
+-->
