@@ -24,10 +24,10 @@ jobs:
           # Followup
           plugin_followup: yes
           # Topics
-          plugin_topics: yes
-          plugin_topics_sort: stars
-          plugin_topics_mode: mastered
-          plugin_topics_limit: 0
+          #plugin_topics: yes
+          #plugin_topics_sort: stars
+          #plugin_topics_mode: mastered
+          #plugin_topics_limit: 0
           # Languages
           plugin_languages: yes
           plugin_languages_ignored: html, css
