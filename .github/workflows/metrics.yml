@@ -38,3 +38,8 @@ jobs:
           plugin_isocalendar: yes
           # Self skip
           plugin_selfskip: yes
+          # Anilist
+          plugin_anilist: yes
+          plugin_anilist_sections: characters
+          plugin_anilist_user: lgou2w
+          plugin_anilist_limit_characters: 22
