@@ -22,6 +22,7 @@ jobs:
           plugin_habits: yes
           plugin_habits_from: 500
           plugin_habits_charts: yes
+          config_timezone: Asia/Shanghai
           # Followup
           plugin_followup: yes
           # Topics
