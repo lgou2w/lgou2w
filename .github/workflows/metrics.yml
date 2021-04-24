@@ -20,7 +20,8 @@ jobs:
           plugin_traffic: yes
           # Habits
           plugin_habits: yes
-          plugin_habits_from: 100
+          plugin_habits_from: 500
+          plugin_habits_charts: yes
           # Followup
           plugin_followup: yes
           # Topics
