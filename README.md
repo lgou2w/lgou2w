@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## 👋 About me
 
-I'm **lgou2w**. A Minecraft player. Currently in-depth learning `Node.js` and `Vue.js`, `React.js` full-stack development.
+I'm **lgou2w**. A Minecraft player. Currently in-depth learning `Node.js` and `Vue.js`, `React.js`, `Rust` full-stack development.
 
 * 📪 Email: [`lgou2w@hotmail.com`](mailto:lgou2w@hotmail.com)
 * 🌎 My site: [`https://lgou2w.com`](https://lgou2w.com)
@@ -27,33 +27,37 @@ I'm **lgou2w**. A Minecraft player. Currently in-depth learning `Node.js` and `V
 <table>
   <tbody>
     <tr valign="top">
-      <td width="14.2%" align="center">
+      <td width="12.5%" align="center">
         <strong>Java</strong><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
-      <td width="14.2%" align="center">
+      <td width="12.5%" align="center">
         <strong>Kotlin</strong><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/kotlin.svg">
       </td>
-      <td width="14.2%" align="center">
+      <td width="12.5%" align="center">
         <strong>JavaScript</strong><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-      <td width="14.2%" align="center">
+      <td width="12.5%" align="center">
         <strong>TypeScript</strong><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
       </td>
-      <td width="14.2%" align="center">
+      <td width="12.5%" align="center">
         <strong>Node.js</strong><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
       </td>
-      <td width="14.2%" align="center">
+      <td width="12.5%" align="center">
         <strong>Vue.js</strong><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
-      <td width="14.2%" align="center">
+      <td width="12.5%" align="center">
         <strong>React.js</strong><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+      <td width="12.5%" align="center">
+        <strong>Rust</strong><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/rust.svg">
       </td>
     </tr>
   </tbody>
